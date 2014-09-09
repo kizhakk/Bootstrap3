@@ -3,3 +3,4 @@ C:\projects\Bootstrap3\Bootstrap3\bin\Bootstrap3.pdb
 C:\projects\Bootstrap3\Bootstrap3\obj\Debug\Bootstrap3.csprojResolveAssemblyReference.cache
 C:\projects\Bootstrap3\Bootstrap3\obj\Debug\Bootstrap3.dll
 C:\projects\Bootstrap3\Bootstrap3\obj\Debug\Bootstrap3.pdb
+C:\projects\Bootstrap3\Bootstrap3\bin\Bootstrap3.dll.config

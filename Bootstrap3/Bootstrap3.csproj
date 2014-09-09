@@ -66,9 +66,86 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Content Include="index.html" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\About.html" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\Contact.html" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\css\amelia-bootstrap.min.css" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\css\bootstrap-theme.css" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\css\bootstrap-theme.min.css" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\css\bootstrap.css" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\css\bootstrap.min.css" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\css\site.css" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\images\carousel-1.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\images\carousel-2.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\images\carousel-3.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\images\carousel-4.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\images\lebowski-1.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\images\lebowski-2.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\images\lebowski-3.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\Index.html" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\js\bootstrap.js" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\js\bootstrap.min.js" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\js\jquery-2.0.3.js" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\js\jquery-2.0.3.min.js" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\About.html" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\Contact.html" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\css\site.css" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\images\carousel-1.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\images\carousel-2.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\images\carousel-3.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\images\carousel-4.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\images\lebowski-1.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\images\lebowski-2.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\images\lebowski-3.jpg" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\Index.html" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\js\jquery-2.0.3.js" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\before\js\jquery-2.0.3.min.js" />
+    <Content Include="m2\About.html" />
+    <Content Include="m2\Contact.html" />
+    <Content Include="m2\css\site.css" />
+    <Content Include="m2\css\superhero-bootstrap.min.css" />
+    <Content Include="m2\images\carousel-1.jpg" />
+    <Content Include="m2\images\carousel-2.jpg" />
+    <Content Include="m2\images\carousel-3.jpg" />
+    <Content Include="m2\images\carousel-4.jpg" />
+    <Content Include="m2\images\lebowski-1.jpg" />
+    <Content Include="m2\images\lebowski-2.jpg" />
+    <Content Include="m2\images\lebowski-3.jpg" />
+    <Content Include="m2\Index.html" />
+    <Content Include="Scripts\jquery-2.1.1.js" />
+    <Content Include="Scripts\jquery-2.1.1.min.js" />
+    <Content Include="web.config" />
+    <Content Include="Content\bootstrap-3.2.0-dist.zip" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Course Materials\bootstrap-3.zip" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files.zip" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\bootstrap-3.0.0.zip" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Course Materials\bootstrap-3\materials\3-bootstrap-3-m2-exercise-files\m2\after\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Course Materials\bootstrap-3\materials\4-bootstrap-3-m3-exercise-files.zip" />
+    <Content Include="Course Materials\bootstrap-3\materials\5-bootstrap-3-m4-exercise-files.zip" />
+    <Content Include="Course Materials\bootstrap-3\materials\6-bootstrap-3-m5-exercise-files.zip" />
+    <Content Include="Course Materials\bootstrap-3\materials\7-bootstrap-3-m6-exercise-files.zip" />
+    <Content Include="Scripts\jquery-2.1.1.min.map" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

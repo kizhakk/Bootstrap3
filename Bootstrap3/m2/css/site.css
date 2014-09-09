@@ -1,6 +1,18 @@
-﻿body{
+﻿body {
   margin-top: 70px;
 }
+
+.navbar-default {
+  background-image: none;
+}
+
+  .navbar-default .navbar-nav > .active > a {
+    background-image: none;
+  }
+
+  .container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse{
+    color:white;
+  }
 
 /*
 @import url(http://fonts.googleapis.com/css?family=Vollkorn:700italic);
