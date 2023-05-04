@@ -1,4 +1,4 @@
-Bootstrap3
+JIRRA Final Project
 ==========
 
-Pluralsight Bootstrap 3 course by Shawn Wildermuth
+MLE Final Project
